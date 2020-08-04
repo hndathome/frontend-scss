@@ -1,0 +1,23 @@
+{
+  "name": "frontend-scss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass scss/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hndathome/frontend-scss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hndathome/frontend-scss/issues"
+  },
+  "homepage": "https://github.com/hndathome/frontend-scss#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
